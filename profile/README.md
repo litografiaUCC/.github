@@ -1,13 +1,16 @@
-## Hi there 👋
 
-![Logo]("https://github.com/litografiaUCC/.github/tree/main/profile/logo.png")
-<!--
+# ![Logo](https://raw.githubusercontent.com/litografiaUCC/.github/main/profile/logo.png)
 
-**Here are some ideas to get you started:**
+Welcome to the repository of student projects from Universidad Cooperativa during the semester 2024-1, focusing on lithography Artes y Planchas.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## About the Organization
+
+This organization is dedicated to collecting and sharing projects developed by students as part of their academic activities at Universidad Cooperativa during the semester 2024-1. Here you'll find a variety of projects related to frontend and backend development, implemented within the context of lithography.
+
+## Members
+
+* **Juan Esteban Cardona Arango** - ***[@Cardona-JE](https://github.com/Cardona-JE)***
+* **Juan Sebastian Cano Valencia** - ***[@Juan-SCV](https://github.com/Juan-SCV)***
+* **Alexander Muñoz Parra** - ***[@Alex-M-P](https://github.com/Alex-M-P)***
+* **Juan Sebastian Rios Valencia** - ***[@Juansecod](https://github.com/Juansecod)***
+* **Sergio Vargas Marin** - ***[@sergiova123](https://github.com/sergiova123)***
